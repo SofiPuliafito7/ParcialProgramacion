@@ -1,6 +1,6 @@
 package com.example.Parcial.controllers;
-import com.example.Facultad.dao.ClienteDao;
-import com.example.Facultad.models.Cliente;
+import com.example.Parcial.dao.ClienteDao;
+import com.example.Parcial.models.Cliente;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
